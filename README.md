@@ -1,3 +1,3 @@
 # MineSweeper
 
-This is a project written in java using JavaFX
+This is a mineSwepper game written in java using JavaFX
